@@ -1,8 +1,8 @@
 **3IN1 POPULAR FOOD**
 
-This project is is about a start-up restaurant website that provides three countries’ popular food in one place. We provide Indian, Chinese, and American popular cuisine in one place. On this website, customers can choose a variety of food, and order breakfast, lunch, dinner, and desserts. This website gives you options to reserve a table and pre-order for dine-in, Online Order for delivery, or to-go and book a restaurant for their special occasions. This system allows customers to modify the existing order or choose delivery for up to the next day. Customers also can customize orders to their choice. We also provide ingredients for each item on the menu and provide safety measures we have taken.• Developed an online Restaurant using WordPress.
-• Implemented the SEO and Marketing strategies to publicize the website.
-• Analyzed the data in Google Analytics and GA4
-
-![image](https://github.com/Jonyando/3in1-Popular-Food/assets/159496463/d49c268b-2493-4a07-b6eb-cb73d523cd17)
+This project is about Developing a start-up restaurant website through Wordpress that provides three countries’ popular food in one place.nline Restaurant using WordPress. The goal is to Implemented the SEO and Marketing strategies to publicize the website and drive the traffic to the website then Analyzed the data in Google Analytics and GA4. The marketing strategies were the use are the social media, paid web ads such as blogs and the Email campaigns such as newsletters through mailchimps. 
+3in1popularfood.wordpress.com
+![image](https://github.com/Jonyando/3in1-Popular-Food/assets/159496463/8c280daf-86dc-4058-864a-7e7ff97d3ace)
+![image](https://github.com/Jonyando/3in1-Popular-Food/assets/159496463/a9b5fe89-fb80-4936-aca4-360452c34e36)
+![image](https://github.com/Jonyando/3in1-Popular-Food/assets/159496463/f21b0d95-186a-4457-a6ff-89d105ca0a4c)
 
