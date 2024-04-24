@@ -1,4 +1,4 @@
-**3IN1 POPULAR FOOD**
+**Website Development And Google analytics**
 
 The project involves creating a startup restaurant website on WordPress that offers popular foods from three different countries. The objective is to incorporate SEO and marketing strategies to promote the website and attract traffic. Following this, the data will be analyzed using Google Analytics and GA4. The marketing tactics utilized include social media engagement, paid web advertising such as blogs, and email campaigns like newsletters through Mailchimp.
 is https://3in1popularfood.wordpress.com/
