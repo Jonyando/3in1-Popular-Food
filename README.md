@@ -3,7 +3,6 @@
 This project is about Developing a start-up restaurant website through Wordpress that provides three countries’ popular food in one place. The goal is to Implemented the SEO and Marketing strategies to publicize the website and drive the traffic to the website then Analyzed the data in Google Analytics and GA4. The marketing strategies were the use are the social media, paid web ads such as blogs and the Email campaigns such as newsletters through mailchimps. 
 
 is https://3in1popularfood.wordpress.com/
-![image](https://github.com/Jonyando/3in1-Popular-Food/assets/159496463/f9a56f66-b63d-4d33-848d-8850a92512a3)
 
 
 ANALYSIS RESULTS 
